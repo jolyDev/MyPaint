@@ -1,0 +1,2 @@
+# MyPaint
+acquaintance with WinAPI
